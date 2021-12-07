@@ -1,0 +1,42 @@
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#f4f4f4;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
+.cooling h2{
+	text-align: center;
+	align-content: center;
+	padding: 5% 0;
+}
+.cooling{
+	text-align: center;
+	align-content: center;
+}
+
+.btn-success{
+	background-color: #fff;
+	color: #000;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 500;
+	padding: 5px 20px;
+}
+
+footer{
+	background-color: #F4F4F4;
+	color: #898989;
+}
